@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ckm",
+  "name": "Christmas King Mod",
+  "description": "A mod I developed for my private minecraft server :) Check out JonTGN on Youtube :P",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JonTGN"],
+  "credits": "Programmed and Developed by JonTGN. Zombie Sound Effects by Syd's Room - https://www.youtube.com/watch?v=wg8u3AQj1Ac",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

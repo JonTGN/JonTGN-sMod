@@ -1,0 +1,61 @@
+//Items
+item.ingot_darksteel.name=Darksteel Ingot
+item.powder_darkstone.name=Darkstone Powder
+
+//Armour
+item.helmet_darksteel.name=Darksteel Helmet
+item.chestplate_darksteel.name=Darksteel Chestplate
+item.leggings_darksteel.name=Darksteel Leggings
+item.boots_darksteel.name=Darksteel Boots
+
+//Tools
+item.axe_darksteel.name=Darksteel Axe
+item.hoe_darksteel.name=Darksteel Hoe
+item.pickaxe_darksteel.name=Darksteel Pickaxe
+item.shovel_darksteel.name=Darksteel Shovel
+item.sword_darksteel.name=Darksteel Sword
+
+//Blocks
+
+tile.block_darksteel.name=Darksteel Block
+tile.ore_overworld_darkstone.name=Darkstone Ore
+
+
+
+tile.aluminium_leaves.name=Aluminium Leaves
+tile.aluminium_log.name=Aluminium Log
+tile.aluminium_sapling.name=Aluminium Sapling
+tile.copper_block.name=Copper Block
+tile.copper_dirt.name=Copper Dirt
+tile.copper_leaves.name=Copper Leaves
+tile.copper_log.name=Copper Log
+tile.copper_ore.name=Copper Ore
+tile.copper_planks.name=Copper Planks
+tile.copper_sapling.name=Copper Sapling
+tile.copper_chest.name=Copper Chest
+tile.santa_hat.name=Santa Hat
+tile.copper_door.name=Copper Door
+tile.copper_slab_half.name=Copper Slab
+tile.copper_slab_double.name=Double Copper Slab
+
+//Entities
+entity.zombie_knight.name=Screecher
+
+//Machines
+tile.sintering_furnace.name=Sinterer
+tile.electric_sintering_furnace.name=Electric Sinterer
+tile.glowstone_generator.name=Glowstone Generator
+tile.energy_storage.name=Energy Storage
+
+//Containers
+container.copper_chest=Copper Chest
+container.sintering_furnace=Sinterer
+container.electric_sintering_furnace=Electric Sinterer
+container.glowstone_generator=Glowstone Generator
+container.energy_storage=Energy Storage
+
+//Creative Tabs
+itemGroup.christmasking=Christmas King
+
+//Fluids
+fluid.molten_copper=Molten Copper

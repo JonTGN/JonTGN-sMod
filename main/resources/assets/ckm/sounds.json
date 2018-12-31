@@ -1,0 +1,22 @@
+{
+    "entity.zombieknight.ambient":
+    {
+        "category": "entity",
+        "subtitle": "entity.zombieknight.ambient",
+        "sounds": [{ "name": "ckm:entity/zombieknight/ambient", "stream": true}]
+    },
+    
+    "entity.zombieknight.hurt":
+    {
+        "category": "entity",
+        "subtitle": "entity.zombieknight.hurt",
+        "sounds": [{ "name": "ckm:entity/zombieknight/hurt", "stream": true}]
+    },
+    
+    "entity.zombieknight.death":
+    {
+        "category": "entity",
+        "subtitle": "entity.zombieknight.death",
+        "sounds": [{ "name": "ckm:entity/zombieknight/death", "stream": true}]
+    } 
+}

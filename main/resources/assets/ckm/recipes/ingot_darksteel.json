@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "ckm:block_darksteel"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ckm:ingot_darksteel",
+        "count": 9
+    }
+}
+
+

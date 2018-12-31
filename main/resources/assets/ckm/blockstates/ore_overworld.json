@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=darkstone": {"model": "ckm:ore_overworld_darkstone" }
+    }
+}

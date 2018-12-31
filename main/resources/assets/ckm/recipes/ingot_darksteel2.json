@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "p"
+    ],
+    
+    "key":
+    {
+        "p":
+        {
+            "item": "ckm:powder_darkstone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ckm:ingot_darksteel",
+        "count": 1
+    }
+}
